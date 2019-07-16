@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ALC 4 Phase 1</string>
+    <string name="welcome_text">Welcome to ALC 4.0</string>
+    <string name="about_alc">About ALC</string>
+    <string name="my_profile">My Profile</string>
+    <string name="kennedy_muthamia">Kennedy Muthamia</string>
+    <string name="track">Track : Android</string>
+    <string name="country">Country : Kenya</string>
+    <string name="email">Email : muthamiamugendi@gmail.com</string>
+    <string name="phone">Phone : +254701315417</string>
+    <string name="slack">Slack Username : Kennedy Muthamia</string>
+    <string name="muthamias_image">Muthamias Image</string>
+</resources>
